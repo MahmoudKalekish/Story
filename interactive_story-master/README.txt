@@ -1,7 +1,6 @@
 The assets I have used are linked below.
 
 Images
-Logo: https://cooking.nytimes.com/recipes/1893-everyday-pancakes
 Spooky forest: https://unsplash.com/s/photos/scary-forest
 Abandoned house: https://unsplash.com/s/photos/abandoned-shack
 Inside abandoned house: https://unsplash.com/s/photos/abandoned-house
