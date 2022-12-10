@@ -1,0 +1,96 @@
+/* Index */
+
+/* background color*/
+body {
+    background-color: black;
+}
+
+/* font color */
+.text-white {
+    color:white;
+    font-size: large;
+}
+
+/* centering text and start button*/
+p {
+    text-align:center;
+    font-size: 17px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-size: 17px;
+}
+
+button {
+    margin: 0 auto;
+    display: block;
+    font-size: 15px;
+
+    -o-border-image: linear-gradient(155deg, #06e5de 0%, #AAFFA9 100%) 1 round;
+    border-image: linear-gradient(155deg, #06e5de 0%, #AAFFA9 100%) 1 round;
+ background: linear-gradient(155deg, #06e5de 0%, #AAFFA9 100%);
+ background-clip: text;
+ -webkit-background-clip: text;
+}
+
+/* font style */
+.benne-font {
+    font-family: 'Benne', serif;
+}
+
+/* button */
+button {
+    font-size: 17px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+/* button color */
+button:hover {
+    /* background-color:paleturquoise; */
+    box-shadow: 0 0 0px 1px rgba(255, 255, 255, 0.5), 2px 2px 6px rgba(170, 255, 169, 0.4), -2px -2px 6px rgba(6, 229, 222, 0.4);
+    color: rgba(255, 255, 255, 0.1);
+    text-shadow: 0 0 1px rgba(255, 255, 255, 0.4);
+    font-size: large;
+}
+
+/* centering image */
+img.displayed {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid white;
+}
+
+.first{
+    text-decoration: none;
+}
+  /* @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+.button {
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 1.5em;
+  color: rgba(221, 205, 205, 0.774);
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0.6em 1.6em;
+  margin: 0.6em;
+  border-style: solid;
+  border-width: 1px;
+  transition: all 0.2s ease;
+  -o-border-image: linear-gradient(155deg, #fb83fa 0%, #31bcb8 100%) 1 round;
+     border-image: linear-gradient(155deg, #fb83fa 0%, #31bcb8 100%) 1 round;
+  background: linear-gradient(155deg, #fb83fa 0%, #31bcb8 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+} */
