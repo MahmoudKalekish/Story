@@ -18,4 +18,4 @@ Follow the steps below in order to pass the game.
 11. You encountered a closet and a painting in the place, you opened the closet but nothing seems to be helpful to explain what these numbers are used for. So you all decided to leave the place because this Mystery House is a waste of time.
 12. You removed the painting, you found a safe in the wall... "This has to be what we are looking for!"
 13. After entering this conbination 76734358, you were able to open the safe.
-14. Congradulations!!! You and your friends were brave enough to explore The Mystery House and find the $100,000 in the safe. 
+14. Congradulations!!! You and your friends were brave enough to explore The Mystery House and find the $100,000 in the safe.  
